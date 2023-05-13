@@ -1,0 +1,91 @@
+{
+  "name": "hope-ui-react",
+  "version": "1.2.1",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "@fortawesome/free-regular-svg-icons": "^6.4.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@fullcalendar/bootstrap": "^5.9.0",
+    "@fullcalendar/core": "^5.9.0",
+    "@fullcalendar/daygrid": "^5.9.0",
+    "@fullcalendar/list": "^5.9.0",
+    "@fullcalendar/react": "^5.9.0",
+    "@mui/icons-material": "^5.11.11",
+    "@mui/material": "^5.12.0",
+    "@mui/system": "^5.12.0",
+    "@mui/x-data-grid": "^6.2.0",
+    "@mui/x-date-pickers": "^6.3.1",
+    "@react-google-maps/api": "^2.18.1",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "aos": "^2.3.4",
+    "apexcharts": "^3.27.3",
+    "babel-plugin-macros": "^3.1.0",
+    "bootstrap": "^5.1.0",
+    "boxicons": "^2.1.4",
+    "dayjs": "^1.11.7",
+    "fullcalendar-interaction": "^5.3.3",
+    "jquery": "^3.6.0",
+    "leaflet": "^1.7.1",
+    "nouislider-react": "^3.4.0",
+    "prismjs": "^1.24.1",
+    "react": "^17.0.2",
+    "react-apexcharts": "^1.3.9",
+    "react-bootstrap": "^2.3.1",
+    "react-circular-progressbar": "^2.0.4",
+    "react-countup": "^5.2.0",
+    "react-csv": "^2.2.2",
+    "react-data-table-component": "^7.5.3",
+    "react-dom": "^17.0.2",
+    "react-flatpickr": "^3.10.11",
+    "react-leaflet": "^3.2.1",
+    "react-redux": "^7.2.4",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "5.0.1",
+    "react-sortablejs": "^6.0.0",
+    "react-transition-group": "^4.4.2",
+    "redux": "^4.1.1",
+    "sass": "^1.36.0",
+    "sass-loader": "^12.1.0",
+    "smooth-scrollbar": "^8.6.3",
+    "sweetalert2": "^11.7.3",
+    "swiper": "^6.8.1",
+    "waypoints": "^4.0.1",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/google-map-react": "^2.1.7",
+    "fslightbox-react": "^1.6.2-2",
+    "sortablejs": "^1.14.0"
+  }
+}

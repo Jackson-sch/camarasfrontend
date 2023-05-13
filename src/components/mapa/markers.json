@@ -1,0 +1,182 @@
+[
+  {
+    "id": 39,
+    "name": "39",
+    "description": "Cámara 39",
+    "address": "Hermanos Angulo 1104",
+    "lat": -8.079478,
+    "lng": -78.998471,
+    "title": "soy el marcador 1"
+  },
+  {
+    "id": 45,
+    "name": "45",
+    "description": "Cámara 45",
+    "address": "Portugal 1193",
+    "lat": -8.078993,
+    "lng": -79.002071,
+    "title": "soy el marcador 1"
+  },
+  {
+    "id": 47,
+    "name": "47",
+    "description": "Cámara 47",
+    "address": "Av. Sanchez Carrion 999",
+    "lat": -8.080033,
+    "lng": -79.000237,
+    "title": "soy el marcador 1"
+  },
+  {
+    "id": 52,
+    "name": "52",
+    "description": "Cámara 52",
+    "address": "Mateo Remigio 897",
+    "lat": -8.080910,
+    "lng": -79.001550,
+    "title": "soy el marcador 1"
+  },
+  {
+    "id": 55,
+    "name": "55",
+    "description": "Cámara 55",
+    "address": "Jose Crespo y Castillo 1548",
+    "lat": -8.082003,
+    "lng": -78.997805,
+    "title": "soy el marcador 1"
+  },
+  {
+    "id": 56,
+    "name": "56",
+    "description": "Cámara 56",
+    "address": "Av. Antonio Rivero 2564",
+    "lat": -8.083945,
+    "lng": -78.992679,
+    "title": "soy el marcador 1"
+  },
+  {
+    "id": 57,
+    "name": "57",
+    "description": "Cámara 57",
+    "address": "Gabriel Aguilar 1475",
+    "lat": -8.082540,
+    "lng": -78.999735,
+    "title": "soy el marcador 1"
+  },
+  {
+    "id": 58,
+    "name": "58",
+    "description": "Cámara 58",
+    "address": "Av. Cahuide 700",
+    "lat": -8.082790,
+    "lng": -79.004050,
+    "title": "soy el marcador 1"
+  },
+  {
+    "id": 62,
+    "name": "62",
+    "description": "Cámara 62",
+    "address": "Juan Carbajal 674",
+    "lat": -8.085147,
+    "lng": -78.995201,
+    "title": "soy el marcador 1"
+  },
+  {
+    "id": 63,
+    "name": "63",
+    "description": "Cámara 63",
+    "address": "Jose Bejar 600",
+    "lat": -8.085744,
+    "lng": -78.996797,
+    "title": "soy el marcador 2"
+  },
+  {
+    "id": 64,
+    "name": "64",
+    "description": "Cámara 64",
+    "address": "Av. Sanchez Carrion 600",
+    "lat": -8.084448,
+    "lng": -79.001407,
+    "title": "soy el marcador 2"
+  },
+  {
+    "id": 69,
+    "name": "69",
+    "description": "Cámara 69",
+    "address": "Jiron Micaela Bastidas 1605",
+    "lat": -8.085586,
+    "lng": -79.998283,
+    "title": "soy el marcador 3"
+  },
+  {
+    "id": 70,
+    "name": "70",
+    "description": "Cámara 70",
+    "address": "Av. Pumacahua 2264",
+    "lat": -8.087599,
+    "lng": -79.991539,
+    "title": "soy el marcador 3"
+  },
+  {
+    "id": 71,
+    "name": "71",
+    "description": "Cámara 71",
+    "address": "Ca. Antonio Rivero 2136",
+    "lat": -8.088356,
+    "lng": -79.993245,
+    "title": "soy el marcador 4"
+  },
+  {
+    "id": 72,
+    "name": "72",
+    "description": "Cámara 72",
+    "address": "Av. Mochica",
+    "lat": -8.089169,
+    "lng": -79.995069,
+    "title": "soy el marcador 4"
+  },
+  {
+    "id": 73,
+    "name": "73",
+    "description": "Cámara 73",
+    "address": "Av. Pumacahua 1784",
+    "lat": -8.088570,
+    "lng": -78.996452,
+    "title": "soy el marcador 4"
+  },
+  {
+    "id": 74,
+    "name": "74",
+    "description": "Cámara 74",
+    "address": "Manco Inca & Av. Pumacahua",
+    "lat": -8.087372,
+    "lng": -78.999851,
+    "title": "soy el marcador 3"
+  },
+  {
+    "id": 75,
+    "name": "75",
+    "description": "Cámara 75",
+    "address": "Av. Sanchez Carrion 400",
+    "lat": -8.086685,
+    "lng": -79.002153,
+    "title": "soy el marcador 3"
+  },
+  {
+    "id": 76,
+    "name": "76",
+    "description": "Cámara 76",
+    "address": "Manuel Ubalde 1099",
+    "lat": -8.086982,
+    "lng": -79.004683,
+    "title": "soy el marcador 3"
+  },
+  {
+    "id": 68,
+    "name": "68",
+    "description": "Cámara 68",
+    "address": "Maria Parado De Bellido 502",
+    "lat": -8.085259,
+    "lng": -79.003174,
+    "title": "soy el marcador 3"
+  }
+]
