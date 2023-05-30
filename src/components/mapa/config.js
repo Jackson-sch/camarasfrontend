@@ -1,5 +1,5 @@
 const config = {
-  REACT_APP_GOOGLE_MAPS_API_KEY: "AIzaSyCWfdv2_4lMEQefdDgaAZRtAEKGHzPepIE",
+  REACT_APP_GOOGLE_MAPS_API_KEY: "",
 };
 
 export default config;
